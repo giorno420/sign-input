@@ -1,0 +1,9 @@
+name: MineFallsSignInput
+version: '${project.version}'
+main: dev.giorno.SignInputMain
+api-version: 1.19
+description: baller
+commands:
+  signgui:
+    usage: /signgui
+    description: baller
